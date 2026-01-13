@@ -42,6 +42,8 @@ It should look like this:
 3. On the left panel find the **Product**
 4. In the SQL editor type **SELECT * FROM PRODUCT;**
 
+![H2](screenshots/Screenshot_7.png)
+
 This will show you what happens with the products after CRUD controllers
 - A new row will appear after **post**
 - The name column changes for that id after **put**
